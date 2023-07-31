@@ -1,1 +1,2 @@
 tabs: ['contracts/Dynamic.sol']
+terminals: ['yarn install']
